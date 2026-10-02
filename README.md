@@ -1,5 +1,11 @@
 # Sellio — Frontend Web
 
+Proyecto del curso Desarrollo Basado en Plataformas (CS2031) de UTEC, 2026-1. Trabajo grupal.
+
+Demo: https://proyecto-2-frontend-lovetaiwan.vercel.app
+
+Repositorio original del equipo: https://github.com/CS2031-DBP/proyecto-2-frontend-lovetaiwan
+
 Panel administrativo (React + TypeScript + Vite) para el backend Sellio
 (Spring Boot). Cubre los puntos 3 y 4 de la rubrica del Proyecto 2 de CS2031 DBP:
 consumo de API con axios centralizado, arquitectura React modular, rutas
